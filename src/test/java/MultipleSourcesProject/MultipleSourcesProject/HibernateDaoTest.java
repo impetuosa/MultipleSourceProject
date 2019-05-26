@@ -18,7 +18,7 @@ import muad.dib.model.Person;
 /**
  * Unit test for simple App.
  */
-public class AppTest extends TestCase {
+public class HibernateDaoTest extends TestCase {
 
 	SessionFactory sessionFactory;
 	Dao<Person> personDao;
@@ -56,7 +56,7 @@ public class AppTest extends TestCase {
 
 	public void testLogAPerson() {
 		Person person = personDao.findAll().get(0);
-		Logger logger = LoggerFactory.getLogger(AppTest.class);
+		Logger logger = LoggerFactory.getLogger(HibernateDaoTest.class);
 		logger.warn("Person: {} address: {}", person.getName(),
 				((BuildingAddress) person.getAddresses().get(1)).getName());
 
