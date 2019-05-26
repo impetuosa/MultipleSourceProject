@@ -13,7 +13,7 @@ public class Reporting {
 	protected ResultSet query(String query) {
 
 		try {
-			db = DriverManager.getConnection("jdbc:postgresql://[::1]:5740/", "sbragagn", "root");
+			db = DriverManager.getConnection("jdbc:postgresql://localhost/sbragagn", "sbragagn", "dummy");
 			return db.createStatement().executeQuery(query);
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
@@ -28,7 +28,7 @@ public class Reporting {
 			ResultSet rs = this.query(" SELECT * FROM Person ");
 			while (rs.next()) {
 				StringBuffer buffer = new StringBuffer();
-				buffer.append("ID ").append(rs.getInt(0)).append("Name").append(rs.getString(3));
+				buffer.append("ID ").append(rs.getInt(1)).append("Name").append(rs.getString(4));
 				value.add(buffer.toString());
 			}
 			 db.close(); 
@@ -40,7 +40,7 @@ public class Reporting {
 	
 	public ResultSet selectLinesFromAt(String table, String columns, String database, String user, String secret) {
 		try {
-			db = DriverManager.getConnection("jdbc:postgresql://[::1]:5740/"+database, user, secret);
+			db = DriverManager.getConnection("jdbc:postgresql://localhost/"+database, user, secret);
 			return db.createStatement().executeQuery("select " + columns + " from " + table);
 		} catch (SQLException e) {
 			throw new RuntimeException(e);
@@ -52,10 +52,10 @@ public class Reporting {
 		try {
 			
 			List<String> value = new ArrayList<String>();
-			ResultSet rs =	this.selectLinesFromAt("buildingaddress", "DISTINCT name, number", "", "sbragagn", "root");
+			ResultSet rs =	this.selectLinesFromAt("buildingaddress", "DISTINCT name, number", "sbragagn", "sbragagn", "dummy");
 			while (rs.next()) {
 				StringBuffer buffer = new StringBuffer();
-				buffer.append("Number").append(rs.getInt(1)).append("Street").append(rs.getString(0));
+				buffer.append("Number").append(rs.getInt(2)).append("Street").append(rs.getString(1));
 				value.add(buffer.toString());
 			}
 			return value;
