@@ -1,0 +1,11 @@
+muad/dib/model/BuildingAddress.class
+muad/dib/model/Address.class
+muad/dib/model/MailAddress.class
+muad/dib/jdbc/JDBCDao.class
+MultipleSourcesProject/MultipleSourcesProject/App.class
+muad/dib/model/Person.class
+muad/dib/jdbc/Building.class
+muad/dib/jdbc/Reporting.class
+muad/dib/dao/Dao.class
+muad/dib/model/Gender.class
+muad/dib/jdbc/BuildingDao.class
