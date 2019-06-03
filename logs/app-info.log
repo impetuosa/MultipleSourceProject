@@ -21,3 +21,206 @@
 [WARN ] 2019-05-26 20:11:47.821 [main] JDBCReportingTest - ID 16NamePablo Tesone
 [WARN ] 2019-05-26 20:11:47.821 [main] JDBCReportingTest - ID 17NamePablo Tesone
 [WARN ] 2019-05-26 20:11:47.821 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.520 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.524 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.524 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.524 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.525 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.526 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.526 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.526 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.526 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.526 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.527 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.527 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.527 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:44:58.635 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:45:00.891 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:45:01.043 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:47:58.113 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:47:58.127 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.127 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.127 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.128 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.128 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.128 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.128 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.128 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.129 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.130 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.130 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.130 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.130 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:47:58.130 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:47:59.920 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:48:00.042 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:50:01.089 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:50:01.102 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.103 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.103 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.103 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.103 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.103 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.104 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.104 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.104 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.104 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.104 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.105 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.105 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.105 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.105 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.105 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.106 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.106 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.106 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.106 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:50:01.106 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:50:02.649 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:50:02.745 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:50:27.655 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:50:27.669 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.669 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.669 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.669 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.669 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.670 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.670 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.670 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.670 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.671 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.671 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.671 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.671 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.672 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.673 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:50:27.673 [main] JDBCReportingTest - ID 22NamePablo Tesone
+[WARN ] 2019-06-03 17:50:29.279 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:50:29.384 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:53:34.834 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:53:34.847 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.847 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.847 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.847 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.848 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.849 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.850 [main] JDBCReportingTest - ID 22NamePablo Tesone
+[WARN ] 2019-06-03 17:53:34.851 [main] JDBCReportingTest - ID 23NamePablo Tesone
+[WARN ] 2019-06-03 17:53:36.423 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:53:36.517 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:55:54.776 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:55:54.789 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.789 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.790 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.791 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 22NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.792 [main] JDBCReportingTest - ID 23NamePablo Tesone
+[WARN ] 2019-06-03 17:55:54.793 [main] JDBCReportingTest - ID 24NamePablo Tesone
+[WARN ] 2019-06-03 17:55:56.398 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:55:56.551 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:56:47.288 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:56:47.300 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.300 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.300 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.301 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.301 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.301 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.301 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.301 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.302 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.303 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.303 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.303 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.303 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.303 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.304 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.304 [main] JDBCReportingTest - ID 22NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.304 [main] JDBCReportingTest - ID 23NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.304 [main] JDBCReportingTest - ID 24NamePablo Tesone
+[WARN ] 2019-06-03 17:56:47.304 [main] JDBCReportingTest - ID 25NamePablo Tesone
+[WARN ] 2019-06-03 17:56:48.894 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:56:49.035 [main] JDBCDaoTest - Building: Chicken address: Planet
+[WARN ] 2019-06-03 17:58:30.557 [main] JDBCReportingTest - Number20Streetrue tamere
+[WARN ] 2019-06-03 17:58:30.570 [main] JDBCReportingTest - ID 1NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.570 [main] JDBCReportingTest - ID 2NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.571 [main] JDBCReportingTest - ID 3NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.571 [main] JDBCReportingTest - ID 4NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.571 [main] JDBCReportingTest - ID 5NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.571 [main] JDBCReportingTest - ID 6NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.571 [main] JDBCReportingTest - ID 7NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 8NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 9NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 10NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 11NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 12NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.572 [main] JDBCReportingTest - ID 13NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 14NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 15NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 16NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 17NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 18NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 19NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 20NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.573 [main] JDBCReportingTest - ID 21NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.574 [main] JDBCReportingTest - ID 22NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.574 [main] JDBCReportingTest - ID 23NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.574 [main] JDBCReportingTest - ID 24NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.574 [main] JDBCReportingTest - ID 25NamePablo Tesone
+[WARN ] 2019-06-03 17:58:30.574 [main] JDBCReportingTest - ID 26NamePablo Tesone
+[WARN ] 2019-06-03 17:58:32.138 [main] HibernateDaoTest - Person: Pablo Tesone address: rue tamere
+[WARN ] 2019-06-03 17:58:32.289 [main] JDBCDaoTest - Building: Chicken address: Planet
